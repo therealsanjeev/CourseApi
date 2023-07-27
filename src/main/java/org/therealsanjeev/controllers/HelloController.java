@@ -3,7 +3,6 @@ package org.therealsanjeev.controllers;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.lang.reflect.Array;
 
 @RestController
 public class HelloController {
